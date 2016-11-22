@@ -1,0 +1,254 @@
+[
+    {
+        "capture": {
+            "phi": 0.0,
+            "odom_y": 0.0,
+            "Image": "/p0.jpg",
+            "time": 1465121740.387332,
+            "Sonar": "/s0.csv",
+            "odom_x": 0.0,
+            "Temperture": 22.927777796119997
+        },
+        "angle": 180
+    },
+    {
+        "capture": {
+            "phi": 0.0,
+            "odom_y": 0.0,
+            "Image": "/p1.jpg",
+            "time": 1465121743.587413,
+            "Sonar": "/s1.csv",
+            "odom_x": 0.0,
+            "Temperture": 23.088888907359998
+        },
+        "angle": 162
+    },
+    {
+        "capture": {
+            "phi": 0.0,
+            "odom_y": 0.0,
+            "Image": "/p2.jpg",
+            "time": 1465121746.987424,
+            "Sonar": "/s2.csv",
+            "odom_x": 0.0,
+            "Temperture": 23.088888907359998
+        },
+        "angle": 144
+    },
+    {
+        "capture": {
+            "phi": 0.0,
+            "odom_y": 0.0,
+            "Image": "/p3.jpg",
+            "time": 1465121750.187426,
+            "Sonar": "/s3.csv",
+            "odom_x": 0.0,
+            "Temperture": 23.050000018439995
+        },
+        "angle": 126
+    },
+    {
+        "capture": {
+            "phi": 0.0,
+            "odom_y": 0.0,
+            "Image": "/p4.jpg",
+            "time": 1465121753.787403,
+            "Sonar": "/s4.csv",
+            "odom_x": 0.0,
+            "Temperture": 22.81111112936
+        },
+        "angle": 108
+    },
+    {
+        "capture": {
+            "phi": 0.0,
+            "odom_y": 0.0,
+            "Image": "/p5.jpg",
+            "time": 1465121756.98741,
+            "Sonar": "/s5.csv",
+            "odom_x": 0.0,
+            "Temperture": 22.750000018199998
+        },
+        "angle": 90
+    },
+    {
+        "capture": {
+            "phi": 0.0,
+            "odom_y": 0.0,
+            "Image": "/p6.jpg",
+            "time": 1465121760.487275,
+            "Sonar": "/s6.csv",
+            "odom_x": 0.0,
+            "Temperture": 22.81111112936
+        },
+        "angle": 72
+    },
+    {
+        "capture": {
+            "phi": 0.0,
+            "odom_y": 0.0,
+            "Image": "/p7.jpg",
+            "time": 1465121763.687403,
+            "Sonar": "/s7.csv",
+            "odom_x": 0.0,
+            "Temperture": 22.81111112936
+        },
+        "angle": 54
+    },
+    {
+        "capture": {
+            "phi": 0.0,
+            "odom_y": 0.0,
+            "Image": "/p8.jpg",
+            "time": 1465121766.987391,
+            "Sonar": "/s8.csv",
+            "odom_x": 0.0,
+            "Temperture": 22.81111112936
+        },
+        "angle": 36
+    },
+    {
+        "capture": {
+            "phi": 0.0,
+            "odom_y": 0.0,
+            "Image": "/p9.jpg",
+            "time": 1465121770.287292,
+            "Sonar": "/s9.csv",
+            "odom_x": 0.0,
+            "Temperture": 22.572222240279995
+        },
+        "angle": 18
+    },
+    {
+        "capture": {
+            "phi": 0.0,
+            "odom_y": 0.0,
+            "Image": "/p10.jpg",
+            "time": 1465121773.787334,
+            "Sonar": "/s10.csv",
+            "odom_x": 0.0,
+            "Temperture": 22.527777795799995
+        },
+        "angle": 0
+    },
+    {
+        "capture": {
+            "phi": 0.0,
+            "odom_y": 0.0,
+            "Image": "/p11.jpg",
+            "time": 1465121776.987278,
+            "Sonar": "/s11.csv",
+            "odom_x": 0.0,
+            "Temperture": 22.572222240279995
+        },
+        "angle": -18
+    },
+    {
+        "capture": {
+            "phi": 0.0,
+            "odom_y": 0.0,
+            "Image": "/p12.jpg",
+            "time": 1465121780.387403,
+            "Sonar": "/s12.csv",
+            "odom_x": 0.0,
+            "Temperture": 22.711111129279995
+        },
+        "angle": -36
+    },
+    {
+        "capture": {
+            "phi": 0.0,
+            "odom_y": 0.0,
+            "Image": "/p13.jpg",
+            "time": 1465121783.587353,
+            "Sonar": "/s13.csv",
+            "odom_x": 0.0,
+            "Temperture": 23.0277777962
+        },
+        "angle": -54
+    },
+    {
+        "capture": {
+            "phi": 0.0,
+            "odom_y": 0.0,
+            "Image": "/p14.jpg",
+            "time": 1465121786.887316,
+            "Sonar": "/s14.csv",
+            "odom_x": 0.0,
+            "Temperture": 23.172222240759993
+        },
+        "angle": -72
+    },
+    {
+        "capture": {
+            "phi": 0.0,
+            "odom_y": 0.0,
+            "Image": "/p15.jpg",
+            "time": 1465121790.18741,
+            "Sonar": "/s15.csv",
+            "odom_x": 0.0,
+            "Temperture": 23.227777796359998
+        },
+        "angle": -90
+    },
+    {
+        "capture": {
+            "phi": 0.0,
+            "odom_y": 0.0,
+            "Image": "/p16.jpg",
+            "time": 1465121793.387274,
+            "Sonar": "/s16.csv",
+            "odom_x": 0.0,
+            "Temperture": 23.21111112968
+        },
+        "angle": -108
+    },
+    {
+        "capture": {
+            "phi": 0.0,
+            "odom_y": 0.0,
+            "Image": "/p17.jpg",
+            "time": 1465121796.687312,
+            "Sonar": "/s17.csv",
+            "odom_x": 0.0,
+            "Temperture": 23.050000018439995
+        },
+        "angle": -126
+    },
+    {
+        "capture": {
+            "phi": 0.0,
+            "odom_y": 0.0,
+            "Image": "/p18.jpg",
+            "time": 1465121799.987368,
+            "Sonar": "/s18.csv",
+            "odom_x": 0.0,
+            "Temperture": 22.8888889072
+        },
+        "angle": -144
+    },
+    {
+        "capture": {
+            "phi": 0.0,
+            "odom_y": 0.0,
+            "Image": "/p19.jpg",
+            "time": 1465121803.287302,
+            "Sonar": "/s19.csv",
+            "odom_x": 0.0,
+            "Temperture": 22.750000018199998
+        },
+        "angle": -162
+    },
+    {
+        "capture": {
+            "phi": 0.0,
+            "odom_y": 0.0,
+            "Image": "/p20.jpg",
+            "time": 1465121806.487329,
+            "Sonar": "/s20.csv",
+            "odom_x": 0.0,
+            "Temperture": 22.95000001836
+        },
+        "angle": -180
+    }
+]
